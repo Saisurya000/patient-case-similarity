@@ -1,0 +1,350 @@
+Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Disease,Precautions,Medications,Common Treatment Class
+Yes,No,Yes,Yes,19,Female,Low,Normal,Influenza,"Vaccination, Avoid huge crowd","Oseltamivir, Zanamivir",Factor replacement therapy
+No,Yes,Yes,No,25,Female,Normal,Normal,Common Cold,"Rest, fluids.","Diphenhydramine, Phenylephrine",Glucagon
+No,Yes,Yes,No,25,Female,Normal,Normal,Eczema,"Moisturize, avoid triggers.","Hydrocortisone, Tacrolimus","Chemotherapy, radiation"
+Yes,Yes,No,Yes,25,Male,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,Yes,No,Yes,25,Male,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,No,No,No,25,Female,Normal,Normal,Eczema,"Moisturize, avoid triggers.","Hydrocortisone, Tacrolimus","Chemotherapy, radiation"
+Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Influenza,"Vaccination, Avoid huge crowd","Oseltamivir, Zanamivir",Factor replacement therapy
+Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Influenza,"Vaccination, Avoid huge crowd","Oseltamivir, Zanamivir",Factor replacement therapy
+No,Yes,No,No,28,Female,Normal,Normal,Hyperthyroidism,Manage medication.,"Methimazole, Propylthiouracil","Chemotherapy, radiation"
+No,Yes,No,No,28,Female,Normal,Normal,Hyperthyroidism,Manage medication.,"Methimazole, Propylthiouracil","Chemotherapy, radiation"
+Yes,No,No,Yes,28,Male,High,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,Yes,Yes,No,29,Female,Normal,Low,Allergic Rhinitis,Avoid allergens.,"Loratadine, Cetirizine",Levothyroxine
+No,Yes,No,No,29,Female,Normal,High,Anxiety Disorders,Seek therapy.,"Sertraline, Escitalopram",Behavioral therapy
+No,No,No,No,29,Female,Low,Normal,Common Cold,"Rest, fluids.","Diphenhydramine, Phenylephrine",Glucagon
+No,No,No,No,29,Male,Low,Normal,Diabetes,Monitor blood sugar.,"Metformin, Glipizide","Corticosteroids, immunosuppressants"
+No,Yes,No,No,29,Female,Normal,Normal,Gastroenteritis,"Hydrate, rest.","Loperamide, Ondansetron",Insulin
+Yes,No,No,No,29,Female,High,Normal,Pancreatitis,"Avoid triggers, manage pain.","Pancrelipase, Acetaminophen","Surgery, immunotherapy"
+No,Yes,Yes,Yes,29,Female,High,High,Rheumatoid Arthritis,Manage pain.,"Methotrexate, Ibuprofen","Chemotherapy, radiation"
+Yes,Yes,Yes,Yes,29,Male,High,Normal,Depression,Seek therapy.,"Fluoxetine, Venlafaxine",Hormone therapy
+Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Liver Cancer,Early detection is key.,"Sorafenib, Lenvatinib",Supportive care
+Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+Yes,Yes,Yes,No,29,Male,High,High,Urinary Tract Infection,"Drink fluids, avoid irritants.","Nitrofurantoin, Trimethoprim-sulfamethoxazole",Antiparasitic medications
+Yes,No,Yes,No,30,Female,Normal,Normal,Dengue Fever,Prevent mosquito bites.,"Acetaminophen, Oral rehydration salts","Braces, surgery"
+Yes,No,Yes,No,30,Female,Normal,Normal,Dengue Fever,Prevent mosquito bites.,"Acetaminophen, Oral rehydration salts","Braces, surgery"
+No,Yes,Yes,No,30,Male,High,High,Eczema,"Moisturize, avoid triggers.","Hydrocortisone, Tacrolimus","Chemotherapy, radiation"
+Yes,Yes,Yes,No,30,Male,High,High,Gastroenteritis,"Hydrate, rest.","Loperamide, Ondansetron",Insulin
+Yes,Yes,Yes,Yes,30,Male,High,Normal,Hepatitis,Get vaccinated.,"Tenofovir, Ribavirin","Hydroxyurea, blood transfusions"
+No,No,Yes,No,30,Male,Normal,Normal,Kidney Cancer,Early detection is key.,"Sunitinib, Pazopanib",Tetanus toxoid vaccine
+Yes,No,No,No,30,Female,Normal,Normal,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+No,Yes,Yes,No,30,Female,Normal,Normal,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+No,No,Yes,No,30,Male,High,High,Muscular Dystrophy,Manage symptoms.,"Prednisone, Eteplirsen",Oral rehydration therapy
+No,Yes,Yes,No,30,Male,Normal,Normal,Sinusitis,Use decongestant.,"Amoxicillin, Mucolytics","Hormonal therapy, pain management"
+Yes,Yes,No,No,30,Female,Normal,Normal,Ulcerative Colitis,Manage symptoms.,"Mesalamine, Azathioprine","Antibiotics, fluids"
+No,Yes,Yes,No,30,Female,Normal,Normal,Ulcerative Colitis,Manage symptoms.,"Mesalamine, Azathioprine","Antibiotics, fluids"
+Yes,Yes,No,Yes,30,Female,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,Yes,No,Yes,30,Female,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,No,Yes,No,30,Female,High,High,Bipolar Disorder,Manage symptoms.,"Lithium, Lamotrigine",CPAP
+Yes,Yes,No,Yes,30,Female,Low,Normal,Bronchitis,"Rest, fluids.","Guaifenesin, Dextromethorphan",Supportive care
+Yes,Yes,Yes,Yes,30,Male,High,High,Bronchitis,"Rest, fluids.","Guaifenesin, Dextromethorphan",Supportive care
+Yes,Yes,Yes,Yes,30,Male,High,High,Bronchitis,"Rest, fluids.","Guaifenesin, Dextromethorphan",Supportive care
+No,No,Yes,Yes,30,Female,Normal,Normal,Cerebral Palsy,Physical therapy.,"Baclofen, Botulinum toxin",Supportive care
+No,No,Yes,No,30,Female,Normal,High,Colorectal Cancer,Screenings.,"Fluorouracil, Oxaliplatin",Antibiotics
+Yes,No,No,No,30,Male,High,High,Eczema,"Moisturize, avoid triggers.","Hydrocortisone, Tacrolimus","Chemotherapy, radiation"
+No,No,Yes,No,30,Female,High,High,Hypertensive Heart Disease,Manage blood pressure.,"Amlodipine, Lisinopril","Chemotherapy, radiation"
+Yes,Yes,Yes,No,30,Male,High,Normal,Influenza,"Vaccination, Avoid huge crowd","Oseltamivir, Zanamivir",Factor replacement therapy
+Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Influenza,"Vaccination, Avoid huge crowd","Oseltamivir, Zanamivir",Factor replacement therapy
+No,No,Yes,No,30,Female,High,High,Multiple Sclerosis,Manage symptoms.,"Dimethyl fumarate, Fingolimod",Chest tube insertion
+Yes,Yes,Yes,Yes,30,Female,High,High,Myocardial Infarction (Heart...,Seek immediate medical attention.,"Aspirin, Atorvastatin",Surgery
+Yes,No,No,No,30,Female,Normal,Normal,Urinary Tract Infection (UTI),"Drink fluids, avoid irritants.","Nitrofurantoin, Ciprofloxacin","Surgery, chemotherapy"
+No,No,No,Yes,31,Male,Normal,Low,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,No,No,Yes,31,Male,Low,Normal,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+Yes,No,Yes,Yes,31,Male,High,High,Common Cold,"Rest, fluids.","Diphenhydramine, Phenylephrine",Glucagon
+Yes,No,No,No,31,Female,Normal,Normal,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+Yes,No,Yes,Yes,32,Female,High,Normal,Pneumonia,"Rest, fluids.","Azithromycin, Amoxicillin",Beta-blockers
+No,No,Yes,No,35,Female,Normal,Low,Allergic Rhinitis,Avoid allergens.,"Loratadine, Cetirizine",Levothyroxine
+No,Yes,Yes,Yes,35,Female,Normal,High,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,Yes,Yes,Yes,35,Female,High,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,Yes,Yes,Yes,35,Female,High,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,No,Yes,No,35,Male,Normal,Normal,Atherosclerosis,Manage cholesterol.,"Statins (e.g., Atorvastatin), Aspirin",Levodopa
+Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Chronic Obstructive Pulmonary...,Avoid irritants.,"Albuterol, Tiotropium",Bronchodilators
+Yes,Yes,Yes,No,35,Male,High,Normal,Common Cold,"Rest, fluids.","Diphenhydramine, Phenylephrine",Glucagon
+No,Yes,No,No,35,Male,High,Normal,Eczema,"Moisturize, avoid triggers.","Hydrocortisone, Tacrolimus","Chemotherapy, radiation"
+No,No,Yes,No,35,Male,High,High,Epilepsy,Take medication.,"Lamotrigine, Levetiracetam","Metformin, birth control"
+Yes,Yes,Yes,No,35,Female,High,Normal,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+Yes,Yes,Yes,No,35,Female,Normal,Normal,Hyperthyroidism,Manage medication.,"Methimazole, Propylthiouracil","Chemotherapy, radiation"
+No,No,Yes,No,35,Male,Normal,Normal,Obsessive-Compulsive Disorde...,Seek therapy.,"Sertraline, Clomipramine",Antibiotics
+Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Pneumonia,"Rest, fluids.","Azithromycin, Amoxicillin",Beta-blockers
+Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Pneumonia,"Rest, fluids.","Azithromycin, Amoxicillin",Beta-blockers
+Yes,No,No,No,35,Female,Normal,Low,Psoriasis,Manage symptoms.,"Methotrexate, Acitretin","Surgery, chemotherapy, radiation"
+No,Yes,Yes,No,35,Female,Normal,Low,Psoriasis,Manage symptoms.,"Methotrexate, Acitretin","Surgery, chemotherapy, radiation"
+Yes,No,Yes,No,35,Female,High,Normal,Rubella,Get vaccinated.,"MMR vaccine (for prevention), Acetaminophen",
+Yes,No,Yes,No,35,Female,High,Normal,Rubella,Get vaccinated.,"MMR vaccine (for prevention), Acetaminophen",
+No,Yes,Yes,No,35,Male,High,High,Urinary Tract Infection (UTI),"Drink fluids, avoid irritants.","Nitrofurantoin, Ciprofloxacin","Surgery, chemotherapy"
+Yes,Yes,No,Yes,35,Male,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,Yes,No,Yes,35,Male,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,No,Yes,No,35,Female,Normal,High,Cirrhosis,Avoid alcohol.,"Lactulose, Spironolactone",Antibiotics
+No,Yes,No,No,35,Female,High,High,Conjunctivitis (Pink Eye),Cleanliness.,"Ciprofloxacin eye drops, Antihistamine eye drops",
+No,No,Yes,No,35,Female,Normal,High,Depression,Seek therapy.,"Fluoxetine, Venlafaxine",Hormone therapy
+Yes,No,Yes,Yes,35,Male,Low,High,Gastroenteritis,"Hydrate, rest.","Loperamide, Ondansetron",Insulin
+Yes,Yes,Yes,No,35,Male,High,High,Hyperthyroidism,Manage medication.,"Methimazole, Propylthiouracil","Chemotherapy, radiation"
+Yes,Yes,Yes,No,35,Male,High,High,Hyperthyroidism,Manage medication.,"Methimazole, Propylthiouracil","Chemotherapy, radiation"
+No,No,Yes,No,35,Male,High,High,Kidney Cancer,Early detection is key.,"Sunitinib, Pazopanib",Tetanus toxoid vaccine
+No,No,Yes,No,35,Female,High,High,Liver Cancer,Early detection is key.,"Sorafenib, Lenvatinib",Supportive care
+No,No,Yes,No,35,Male,High,High,Liver Disease,Avoid alcohol.,"Ursodiol, Lactulose","Dialysis, kidney transplant"
+Yes,No,No,No,35,Male,High,High,Malaria,Prevent mosquito bites.,"Artemether-lumefantrine, Chloroquine","Interferon, antiviral medications"
+Yes,No,No,No,35,Male,High,High,Malaria,Prevent mosquito bites.,"Artemether-lumefantrine, Chloroquine","Interferon, antiviral medications"
+No,Yes,Yes,No,35,Male,High,High,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+Yes,No,No,No,35,Male,High,High,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+No,No,Yes,No,35,Male,Normal,High,Pancreatitis,"Avoid triggers, manage pain.","Pancrelipase, Acetaminophen","Surgery, immunotherapy"
+Yes,Yes,Yes,No,35,Male,Normal,Low,Rheumatoid Arthritis,Manage pain.,"Methotrexate, Ibuprofen","Chemotherapy, radiation"
+No,No,Yes,No,35,Female,Normal,Low,Rheumatoid Arthritis,Manage pain.,"Methotrexate, Ibuprofen","Chemotherapy, radiation"
+No,No,Yes,No,35,Female,Normal,Normal,Spina Bifida,Manage symptoms.,"Folic acid, Multivitamins",Growth hormone therapy
+No,No,Yes,No,35,Male,High,High,Ulcerative Colitis,Manage symptoms.,"Mesalamine, Azathioprine","Antibiotics, fluids"
+Yes,No,No,No,35,Male,High,High,Ulcerative Colitis,Manage symptoms.,"Mesalamine, Azathioprine","Antibiotics, fluids"
+Yes,No,Yes,No,35,Female,Normal,High,Urinary Tract Infection,"Drink fluids, avoid irritants.","Nitrofurantoin, Trimethoprim-sulfamethoxazole",Antiparasitic medications
+No,Yes,No,No,38,Female,Low,Normal,Allergic Rhinitis,Avoid allergens.,"Loratadine, Cetirizine",Levothyroxine
+No,No,No,No,38,Female,Normal,High,Depression,Seek therapy.,"Fluoxetine, Venlafaxine",Hormone therapy
+No,No,No,No,38,Male,Normal,Low,Gastroenteritis,"Hydrate, rest.","Loperamide, Ondansetron",Insulin
+No,No,No,No,38,Male,Normal,Normal,Influenza,"Vaccination, Avoid huge crowd","Oseltamivir, Zanamivir",Factor replacement therapy
+No,No,Yes,No,38,Female,Low,Normal,Kidney Disease,Manage symptoms.,"Epoetin alfa, Calcium acetate","Surgery, radioactive iodine"
+Yes,Yes,No,No,38,Female,High,Normal,Liver Cancer,Early detection is key.,"Sorafenib, Lenvatinib",Supportive care
+No,Yes,No,Yes,38,Male,Low,Normal,Liver Disease,Avoid alcohol.,"Ursodiol, Lactulose","Dialysis, kidney transplant"
+No,Yes,No,No,38,Female,Normal,High,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+Yes,Yes,No,No,38,Female,High,Normal,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+Yes,No,Yes,Yes,38,Male,High,High,Anxiety Disorders,Seek therapy.,"Sertraline, Escitalopram",Behavioral therapy
+Yes,No,Yes,Yes,38,Male,High,Low,Diabetes,Monitor blood sugar.,"Metformin, Glipizide","Corticosteroids, immunosuppressants"
+Yes,Yes,No,No,38,Male,High,High,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+Yes,Yes,Yes,No,38,Male,High,High,Osteoarthritis,Manage pain.,"Acetaminophen, Celecoxib","Surgery, chemotherapy, radiation"
+Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Pneumonia,"Rest, fluids.","Azithromycin, Amoxicillin",Beta-blockers
+No,No,Yes,No,39,Female,Normal,Normal,Klinefelter Syndrome,Manage symptoms.,"Testosterone, Clomiphene",Antibiotics
+No,No,Yes,No,40,Male,Normal,Normal,Acne,Manage skin care.,"Benzoyl peroxide, Isotretinoin",Antipsychotics
+No,No,Yes,No,40,Male,Normal,Normal,Brain Tumor,Seek medical attention.,"Temozolomide, Dexamethasone",Cholinesterase inhibitors
+No,Yes,No,Yes,40,Female,Normal,Normal,Bronchitis,"Rest, fluids.","Guaifenesin, Dextromethorphan",Supportive care
+No,No,Yes,Yes,40,Male,High,High,Cystic Fibrosis,Manage symptoms.,"Ivacaftor, Dornase alfa",Bronchodilators
+Yes,No,No,No,40,Female,High,High,Diabetes,Monitor blood sugar.,"Metformin, Glipizide","Corticosteroids, immunosuppressants"
+No,No,Yes,No,40,Male,High,Normal,Glaucoma,Eye exams.,"Timolol, Latanoprost",Cholinesterase inhibitors
+No,No,Yes,No,40,Male,High,Normal,Osteoarthritis,Manage pain.,"Acetaminophen, Celecoxib","Surgery, chemotherapy, radiation"
+Yes,Yes,No,No,40,Female,High,Normal,Rabies,Get vaccinated.,"Rabies vaccine, Rabies immunoglobulin",Antibiotics
+Yes,Yes,No,No,40,Female,High,Normal,Rabies,Get vaccinated.,"Rabies vaccine, Rabies immunoglobulin",Antibiotics
+Yes,No,Yes,No,40,Male,Low,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,Yes,No,Yes,40,Female,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,Yes,No,Yes,40,Female,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,No,Yes,Yes,40,Male,High,High,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,No,Yes,Yes,40,Male,Normal,High,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,No,Yes,Yes,40,Male,Normal,High,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,Yes,No,No,40,Male,Normal,High,Chickenpox,Get vaccinated.,"Acyclovir, Calamine lotion",
+No,Yes,No,No,40,Male,Normal,High,Chickenpox,Get vaccinated.,"Acyclovir, Calamine lotion",
+No,No,Yes,No,40,Female,High,High,Coronary Artery Disease,Manage risk factors.,"Aspirin, Statins",Surgery
+No,No,Yes,No,40,Female,High,High,"Eating Disorders (Anorexia,...",Seek therapy.,"Fluoxetine, Olanzapine","Surgery, radiation, hormone therapy"
+No,No,Yes,No,40,Female,High,High,Fibromyalgia,Manage pain.,"Duloxetine, Pregabalin",Antipsychotics
+Yes,Yes,Yes,No,40,Male,High,High,Gastroenteritis,"Hydrate, rest.","Loperamide, Ondansetron",Insulin
+No,No,Yes,No,40,Female,Normal,Normal,Hemophilia,Avoid injuries.,"Desmopressin, Factor VIII, Factor IX","NSAIDs, colchicine"
+No,No,Yes,No,40,Male,High,High,Hyperthyroidism,Manage medication.,"Methimazole, Propylthiouracil","Chemotherapy, radiation"
+No,No,Yes,No,40,Female,High,High,Hypoglycemia,Monitor blood sugar.,"Glucose Tablets, Glucagon","Surgery, chemotherapy"
+No,Yes,No,No,40,Female,Normal,High,Lymphoma,Follow treatment plan.,"R-CHOP (Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, Prednisone)",Antibiotics
+Yes,Yes,Yes,Yes,40,Female,Normal,High,Pneumonia,"Rest, fluids.","Azithromycin, Amoxicillin",Beta-blockers
+No,Yes,Yes,No,40,Male,High,Normal,Psoriasis,Manage symptoms.,"Methotrexate, Acitretin","Surgery, chemotherapy, radiation"
+Yes,No,No,No,40,Male,High,Normal,Psoriasis,Manage symptoms.,"Methotrexate, Acitretin","Surgery, chemotherapy, radiation"
+No,Yes,No,No,40,Female,Normal,High,Psoriasis,Manage symptoms.,"Methotrexate, Acitretin","Surgery, chemotherapy, radiation"
+Yes,Yes,Yes,Yes,40,Male,High,High,Tuberculosis,Seek treatment.,"Isoniazid, Rifampin, Ethambutol, Pyrazinamide",Behavioral therapy
+Yes,Yes,Yes,Yes,40,Male,High,High,Tuberculosis,Seek treatment.,"Isoniazid, Rifampin, Ethambutol, Pyrazinamide",Behavioral therapy
+No,No,No,No,42,Male,Low,Normal,Anxiety Disorders,Seek therapy.,"Sertraline, Escitalopram",Behavioral therapy
+Yes,Yes,No,No,42,Female,High,High,Common Cold,"Rest, fluids.","Diphenhydramine, Phenylephrine",Glucagon
+Yes,No,No,Yes,42,Male,High,Normal,Depression,Seek therapy.,"Fluoxetine, Venlafaxine",Hormone therapy
+No,Yes,No,No,42,Female,Normal,High,Influenza,"Vaccination, Avoid huge crowd","Oseltamivir, Zanamivir",Factor replacement therapy
+Yes,No,No,No,42,Female,Normal,Normal,Kidney Cancer,Early detection is key.,"Sunitinib, Pazopanib",Tetanus toxoid vaccine
+Yes,No,Yes,Yes,42,Male,Normal,Low,Liver Cancer,Early detection is key.,"Sorafenib, Lenvatinib",Supportive care
+Yes,No,No,Yes,42,Female,Normal,Normal,Liver Disease,Avoid alcohol.,"Ursodiol, Lactulose","Dialysis, kidney transplant"
+Yes,No,Yes,Yes,42,Male,Normal,Low,Lung Cancer,Avoid smoking.,"Cisplatin, Paclitaxel",Chemotherapy
+Yes,Yes,Yes,No,42,Male,High,High,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+No,No,Yes,No,42,Male,Normal,Low,Osteoarthritis,Manage pain.,"Acetaminophen, Celecoxib","Surgery, chemotherapy, radiation"
+Yes,No,Yes,No,42,Male,Normal,Low,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+No,Yes,Yes,Yes,42,Female,Normal,Low,Urinary Tract Infection,"Drink fluids, avoid irritants.","Nitrofurantoin, Trimethoprim-sulfamethoxazole",Antiparasitic medications
+Yes,Yes,Yes,No,42,Male,High,Normal,Diabetes,Monitor blood sugar.,"Metformin, Glipizide","Corticosteroids, immunosuppressants"
+Yes,Yes,Yes,No,42,Female,High,High,Hypothyroidism,Take medication.,Levothyroxine,Thyroid Hormone Replacement
+Yes,Yes,Yes,No,42,Female,High,High,Hypothyroidism,Take medication.,Levothyroxine,Thyroid Hormone Replacement
+Yes,No,Yes,No,42,Female,High,Low,Kidney Disease,Manage symptoms.,"Epoetin alfa, Calcium acetate","Surgery, radioactive iodine"
+No,Yes,Yes,Yes,43,Female,High,Normal,Pneumonia,"Rest, fluids.","Azithromycin, Amoxicillin",Beta-blockers
+No,Yes,Yes,No,45,Male,High,Normal,Allergic Rhinitis,Avoid allergens.,"Loratadine, Cetirizine",Levothyroxine
+No,No,Yes,No,45,Male,Normal,Normal,Autism Spectrum Disorder (ASD),Provide support.,"Risperidone, Aripiprazole",Antipsychotics
+Yes,No,Yes,No,45,Male,High,Normal,Crohn's Disease,Manage diet.,"Infliximab, Azathioprine, Prednisone","Immunosuppressants, Steroids"
+Yes,No,Yes,No,45,Female,High,High,Hepatitis,Get vaccinated.,"Tenofovir, Ribavirin","Hydroxyurea, blood transfusions"
+Yes,No,Yes,No,45,Female,High,High,Hepatitis,Get vaccinated.,"Tenofovir, Ribavirin","Hydroxyurea, blood transfusions"
+No,No,Yes,No,45,Male,Normal,Normal,Hyperglycemia,Monitor blood sugar.,"Insulin, Metformin",Antidiabetics
+No,Yes,Yes,Yes,45,Male,Normal,Low,Kidney Cancer,Early detection is key.,"Sunitinib, Pazopanib",Tetanus toxoid vaccine
+Yes,Yes,No,No,45,Male,Normal,High,Kidney Disease,Manage symptoms.,"Epoetin alfa, Calcium acetate","Surgery, radioactive iodine"
+Yes,No,Yes,No,45,Male,High,Normal,Melanoma,Check skin regularly.,"Pembrolizumab, Nivolumab",Immunotherapy
+No,No,No,No,45,Female,Low,Normal,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+No,No,Yes,No,45,Male,Normal,Normal,Ovarian Cancer,Know your risk factors.,"Paclitaxel, Carboplatin",Chemotherapy
+No,Yes,Yes,Yes,45,Male,Normal,Low,Pancreatitis,"Avoid triggers, manage pain.","Pancrelipase, Acetaminophen","Surgery, immunotherapy"
+Yes,No,No,No,45,Male,Normal,Normal,Rheumatoid Arthritis,Manage pain.,"Methotrexate, Ibuprofen","Chemotherapy, radiation"
+No,No,Yes,No,45,Male,Normal,Normal,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+No,No,Yes,No,45,Male,High,High,Turner Syndrome,Seek medical advice.,"Growth Hormone, Estrogen Replacement",Hormone Replacement
+No,No,Yes,No,45,Male,High,High,Turner Syndrome,Seek medical advice.,"Growth Hormone, Estrogen Replacement",Hormone Replacement
+No,No,No,No,45,Female,Low,Normal,Urinary Tract Infection,"Drink fluids, avoid irritants.","Nitrofurantoin, Trimethoprim-sulfamethoxazole",Antiparasitic medications
+No,Yes,Yes,No,45,Female,High,High,Zika Virus,Protect against mosquitoes.,Symptomatic treatment,"Antipyretics, Fluids"
+No,Yes,Yes,No,45,Female,High,High,Zika Virus,Protect against mosquitoes.,Symptomatic treatment,"Antipyretics, Fluids"
+Yes,Yes,Yes,No,45,Male,High,Normal,Allergic Rhinitis,Avoid allergens.,"Loratadine, Cetirizine",Levothyroxine
+Yes,Yes,Yes,No,45,Male,High,Normal,Anxiety Disorders,Seek therapy.,"Sertraline, Escitalopram",Behavioral therapy
+Yes,Yes,No,Yes,45,Male,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,Yes,No,Yes,45,Male,Normal,Normal,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,No,Yes,No,45,Female,Normal,High,Cataracts,See an eye doctor.,N/A (Surgery),
+No,No,Yes,No,45,Female,High,High,Crohn's Disease,Manage diet.,"Infliximab, Azathioprine, Prednisone","Immunosuppressants, Steroids"
+Yes,Yes,Yes,No,45,Female,High,High,Crohn's Disease,Manage diet.,"Infliximab, Azathioprine, Prednisone","Immunosuppressants, Steroids"
+No,No,Yes,No,45,Female,High,High,Depression,Seek therapy.,"Fluoxetine, Venlafaxine",Hormone therapy
+Yes,No,Yes,No,45,Female,High,High,Diabetes,Monitor blood sugar.,"Metformin, Glipizide","Corticosteroids, immunosuppressants"
+No,Yes,Yes,No,45,Male,Normal,High,Diabetes,Monitor blood sugar.,"Metformin, Glipizide","Corticosteroids, immunosuppressants"
+Yes,No,Yes,No,45,Male,Normal,High,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+No,No,Yes,No,45,Female,High,High,Hypothyroidism,Take medication.,Levothyroxine,Thyroid Hormone Replacement
+Yes,Yes,Yes,No,45,Female,Normal,High,Liver Disease,Avoid alcohol.,"Ursodiol, Lactulose","Dialysis, kidney transplant"
+Yes,No,No,No,45,Female,High,High,Multiple Sclerosis,Manage symptoms.,"Dimethyl fumarate, Fingolimod",Chest tube insertion
+Yes,No,No,No,45,Female,High,High,Multiple Sclerosis,Manage symptoms.,"Dimethyl fumarate, Fingolimod",Chest tube insertion
+Yes,No,Yes,Yes,45,Male,High,Normal,Osteoarthritis,Manage pain.,"Acetaminophen, Celecoxib","Surgery, chemotherapy, radiation"
+Yes,Yes,Yes,No,45,Female,Normal,High,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+Yes,Yes,Yes,No,45,Female,High,High,Pneumocystis Pneumonia (PCP),Prevent infections.,Trimethoprim-Sulfamethoxazole (TMP-SMX),Antibiotics
+Yes,Yes,Yes,Yes,45,Male,High,High,Pneumonia,"Rest, fluids.","Azithromycin, Amoxicillin",Beta-blockers
+No,No,No,No,45,Female,High,High,Scoliosis,Wear a brace if needed.,Pain relievers (Ibuprofen),NSAIDs
+No,No,Yes,No,45,Female,Normal,Normal,Sickle Cell Anemia,Manage symptoms.,"Hydroxyurea, Blood Transfusions",Disease-modifying drugs
+No,No,Yes,No,45,Male,Normal,High,Tetanus,Get vaccinated.,"Tetanus Immunoglobulin, Metronidazole","Immunotherapy, Antibiotics"
+No,No,Yes,No,45,Male,Normal,High,Tetanus,Get vaccinated.,"Tetanus Immunoglobulin, Metronidazole","Immunotherapy, Antibiotics"
+No,No,No,No,48,Female,Low,High,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+No,No,Yes,No,48,Male,Normal,High,Hypothyroidism,Take medication.,Levothyroxine,Thyroid Hormone Replacement
+No,No,Yes,No,48,Male,Normal,High,Hypothyroidism,Take medication.,Levothyroxine,Thyroid Hormone Replacement
+Yes,No,No,No,50,Male,High,High,Allergic Rhinitis,Avoid allergens.,"Loratadine, Cetirizine",Levothyroxine
+No,No,Yes,No,50,Male,Normal,Normal,Anemia,Increase iron intake.,"Ferrous Sulfate, Folic Acid","Iron, Vitamin Supplements"
+No,No,Yes,No,50,Male,Normal,Normal,Anxiety Disorders,Seek therapy.,"Sertraline, Escitalopram",Behavioral therapy
+Yes,No,Yes,Yes,50,Female,High,High,Cholera,Drink safe water.,"Doxycycline, Oral Rehydration Salts (ORS)","Antibiotics, Rehydration"
+Yes,No,Yes,Yes,50,Female,High,High,Cholera,Drink safe water.,"Doxycycline, Oral Rehydration Salts (ORS)","Antibiotics, Rehydration"
+Yes,Yes,Yes,No,50,Male,Normal,High,Crohn's Disease,Manage diet.,"Infliximab, Azathioprine, Prednisone","Immunosuppressants, Steroids"
+No,No,Yes,No,50,Male,Normal,High,Crohn's Disease,Manage diet.,"Infliximab, Azathioprine, Prednisone","Immunosuppressants, Steroids"
+No,Yes,Yes,No,50,Female,Low,Low,Depression,Seek therapy.,"Fluoxetine, Venlafaxine",Hormone therapy
+No,Yes,No,No,50,Male,Normal,High,Diabetes,Monitor blood sugar.,"Metformin, Glipizide","Corticosteroids, immunosuppressants"
+Yes,No,No,No,50,Male,High,Normal,Endometriosis,Manage pain.,"NSAIDs, Hormonal Therapy","Pain Management, Hormone Regulation"
+No,Yes,No,No,50,Female,Normal,Low,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+Yes,Yes,Yes,No,50,Male,Normal,High,Hypothyroidism,Take medication.,Levothyroxine,Thyroid Hormone Replacement
+No,Yes,No,No,50,Male,Low,High,Kidney Cancer,Early detection is key.,"Sunitinib, Pazopanib",Tetanus toxoid vaccine
+No,Yes,No,Yes,50,Male,Normal,Normal,Kidney Disease,Manage symptoms.,"Epoetin alfa, Calcium acetate","Surgery, radioactive iodine"
+No,Yes,No,No,50,Male,Low,High,Pancreatitis,"Avoid triggers, manage pain.","Pancrelipase, Acetaminophen","Surgery, immunotherapy"
+No,Yes,No,No,50,Female,Low,Normal,Rheumatoid Arthritis,Manage pain.,"Methotrexate, Ibuprofen","Chemotherapy, radiation"
+Yes,Yes,Yes,No,50,Male,Normal,Normal,Sepsis,Seek immediate medical attention.,"Broad-Spectrum Antibiotics (Vancomycin, Ceftriaxone)",Antibiotics
+Yes,No,Yes,Yes,50,Male,High,High,Sleep Apnea,Use CPAP.,"CPAP (machine), Modafinil",Positive Airway Pressure Therapy
+Yes,Yes,No,Yes,50,Male,High,Normal,Urinary Tract Infection,"Drink fluids, avoid irritants.","Nitrofurantoin, Trimethoprim-sulfamethoxazole",Antiparasitic medications
+Yes,Yes,Yes,Yes,50,Female,Normal,High,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+Yes,Yes,Yes,Yes,50,Male,High,High,Bronchitis,"Rest, fluids.","Guaifenesin, Dextromethorphan",Supportive care
+No,No,Yes,No,50,Female,High,High,Down Syndrome,Provide early intervention.,Symptomatic treatment,Varies based on complications
+Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Ebola Virus,Avoid affected areas.,"ZMapp (experimental), Supportive care",Antiviral
+Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Ebola Virus,Avoid affected areas.,"ZMapp (experimental), Supportive care",Antiviral
+No,Yes,No,No,50,Female,High,High,Eczema,"Moisturize, avoid triggers.","Hydrocortisone, Tacrolimus","Chemotherapy, radiation"
+Yes,Yes,Yes,Yes,50,Female,High,Normal,Gastroenteritis,"Hydrate, rest.","Loperamide, Ondansetron",Insulin
+No,No,Yes,No,50,Female,Normal,Normal,Klinefelter Syndrome,Manage symptoms.,"Testosterone, Clomiphene",Antibiotics
+No,Yes,Yes,Yes,50,Male,High,High,Liver Cancer,Early detection is key.,"Sorafenib, Lenvatinib",Supportive care
+Yes,No,No,No,50,Male,Normal,High,Lyme Disease,Prevent tick bites.,"Doxycycline, Amoxicillin",Antibiotics
+Yes,No,No,No,50,Male,Normal,High,Lyme Disease,Prevent tick bites.,"Doxycycline, Amoxicillin",Antibiotics
+No,No,Yes,No,50,Female,High,High,Pancreatic Cancer,Early detection is key.,"Gemcitabine, FOLFIRINOX",Chemotherapy
+No,No,Yes,Yes,50,Female,High,High,Pneumothorax,Seek medical attention.,Chest tube insertion,
+No,Yes,Yes,Yes,50,Male,High,High,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+No,Yes,Yes,No,50,Female,Normal,High,Ulcerative Colitis,Manage symptoms.,"Mesalamine, Azathioprine","Antibiotics, fluids"
+Yes,Yes,No,No,52,Male,Normal,Low,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+No,Yes,Yes,No,52,Male,Normal,Normal,Multiple Sclerosis,Manage symptoms.,"Dimethyl fumarate, Fingolimod",Chest tube insertion
+No,Yes,Yes,No,52,Male,Normal,Normal,Multiple Sclerosis,Manage symptoms.,"Dimethyl fumarate, Fingolimod",Chest tube insertion
+Yes,No,Yes,No,55,Male,Normal,Normal,Appendicitis,Seek immediate surgery.,"Antibiotics (Ceftriaxone), Appendectomy","Surgery, Antibiotics"
+No,No,Yes,Yes,55,Male,High,High,Bronchitis,"Rest, fluids.","Guaifenesin, Dextromethorphan",Supportive care
+Yes,Yes,Yes,Yes,55,Male,High,Normal,Bronchitis,"Rest, fluids.","Guaifenesin, Dextromethorphan",Supportive care
+Yes,No,Yes,Yes,55,Male,Normal,Low,Common Cold,"Rest, fluids.","Diphenhydramine, Phenylephrine",Glucagon
+No,Yes,No,No,55,Female,Normal,High,Diabetes,Monitor blood sugar.,"Metformin, Glipizide","Corticosteroids, immunosuppressants"
+No,No,Yes,No,55,Male,Normal,Normal,Esophageal Cancer,Avoid irritants.,"5-FU, Cisplatin",Chemotherapy
+Yes,No,No,No,55,Female,High,High,HIV/AIDS,Manage treatment.,"ART (Antiretroviral Therapy) - Tenofovir, Emtricitabine, Efavirenz",Antiretrovirals
+Yes,No,No,No,55,Female,High,High,HIV/AIDS,Manage treatment.,"ART (Antiretroviral Therapy) - Tenofovir, Emtricitabine, Efavirenz",Antiretrovirals
+No,Yes,No,No,55,Female,Normal,Low,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+No,Yes,Yes,No,55,Male,High,Low,Liver Disease,Avoid alcohol.,"Ursodiol, Lactulose","Dialysis, kidney transplant"
+No,No,Yes,No,55,Male,High,High,Marfan Syndrome,Monitor heart health.,"Losartan, Beta Blockers",Blood Pressure Management
+No,Yes,Yes,Yes,55,Female,Normal,Low,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+No,No,Yes,No,55,Male,High,Normal,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+No,No,Yes,No,55,Female,Normal,Low,Parkinson's Disease,Manage symptoms.,"Levodopa, Carbidopa",Dopamine Agonists
+No,No,Yes,No,55,Female,Normal,Low,Parkinson's Disease,Manage symptoms.,"Levodopa, Carbidopa",Dopamine Agonists
+Yes,Yes,No,No,55,Female,Normal,Low,Anxiety Disorders,Seek therapy.,"Sertraline, Escitalopram",Behavioral therapy
+No,No,Yes,No,55,Female,Normal,Normal,Coronary Artery Disease,Manage risk factors.,"Aspirin, Statins",Surgery
+No,No,Yes,No,55,Female,Normal,Normal,Coronary Artery Disease,Manage risk factors.,"Aspirin, Statins",Surgery
+No,No,No,No,55,Female,High,High,Hemorrhoids,Maintain good hygiene.,"Hydrocortisone, Witch Hazel",Anti-inflammatories
+Yes,No,Yes,No,55,Male,High,Normal,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+No,No,Yes,No,55,Female,High,High,Hypothyroidism,Take medication.,Levothyroxine,Thyroid Hormone Replacement
+Yes,Yes,No,No,55,Female,High,High,Osteoarthritis,Manage pain.,"Acetaminophen, Celecoxib","Surgery, chemotherapy, radiation"
+Yes,No,Yes,Yes,55,Male,High,Low,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+No,Yes,Yes,No,55,Female,Normal,Normal,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+Yes,No,Yes,No,55,Female,Normal,Normal,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+Yes,No,Yes,No,55,Female,Normal,Normal,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+Yes,Yes,No,No,55,Female,Normal,Normal,Polycystic Ovary Syndrome (PCOS),Manage symptoms.,"Metformin, Oral Contraceptives",Hormonal Regulation
+No,Yes,Yes,No,55,Female,High,High,Systemic Lupus Erythematosus...,Manage symptoms.,"Hydroxychloroquine, Methotrexate",Immunosuppressants
+No,Yes,No,No,55,Male,Normal,Low,Typhoid Fever,Drink safe water.,"Ciprofloxacin, Azithromycin",Antibiotics
+No,Yes,No,No,55,Male,Normal,Low,Typhoid Fever,Drink safe water.,"Ciprofloxacin, Azithromycin",Antibiotics
+Yes,Yes,Yes,Yes,56,Male,High,High,Influenza,"Vaccination, Avoid huge crowd","Oseltamivir, Zanamivir",Factor replacement therapy
+Yes,Yes,No,Yes,57,Male,Normal,High,Pneumonia,"Rest, fluids.","Azithromycin, Amoxicillin",Beta-blockers
+No,No,Yes,No,60,Male,High,High,Breast Cancer,Get regular screenings.,"Tamoxifen, Doxorubicin",Chemotherapy
+Yes,Yes,No,No,60,Male,High,High,Coronary Artery Disease,Manage risk factors.,"Aspirin, Statins",Surgery
+Yes,Yes,No,No,60,Male,High,High,Coronary Artery Disease,Manage risk factors.,"Aspirin, Statins",Surgery
+No,No,Yes,No,60,Male,Normal,Normal,Hyperthyroidism,Manage medication.,"Methimazole, Propylthiouracil","Chemotherapy, radiation"
+Yes,Yes,No,No,60,Female,High,Normal,Measles,Get vaccinated.,"Vitamin A, Symptomatic care",Immunotherapy
+Yes,Yes,No,No,60,Female,High,Normal,Measles,Get vaccinated.,"Vitamin A, Symptomatic care",Immunotherapy
+No,Yes,No,Yes,60,Female,Normal,Normal,Osteoarthritis,Manage pain.,"Acetaminophen, Celecoxib","Surgery, chemotherapy, radiation"
+No,No,Yes,No,60,Male,Normal,Normal,Osteomyelitis,Seek medical attention.,"Vancomycin, Clindamycin",Antibiotics
+Yes,No,No,No,60,Male,High,High,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+No,Yes,No,No,60,Male,High,High,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+No,Yes,No,No,60,Male,High,High,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+Yes,Yes,Yes,No,60,Male,Normal,Normal,Polio,Get vaccinated.,Symptomatic treatment,
+Yes,Yes,Yes,Yes,60,Female,High,High,Asthma,"Avoid triggers, use inhaler.","Albuterol, Fluticasone",Anti-TB medications
+No,No,Yes,No,60,Female,Normal,High,Chronic Kidney Disease,Manage diet.,"ACE Inhibitors, Diuretics",Blood Pressure Management
+No,No,Yes,No,60,Female,Normal,Normal,Hemophilia,Avoid injuries.,"Desmopressin, Factor VIII, Factor IX","NSAIDs, colchicine"
+No,Yes,Yes,No,60,Male,Normal,Low,Hepatitis B,Get vaccinated.,"Tenofovir, Entecavir",Antivirals
+No,Yes,Yes,No,60,Male,Normal,Low,Hepatitis B,Get vaccinated.,"Tenofovir, Entecavir",Antivirals
+No,No,Yes,No,60,Female,High,Normal,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+Yes,No,Yes,No,60,Male,High,Normal,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+No,No,No,No,60,Female,High,High,Hypertension,Manage blood pressure.,"Amlodipine, Losartan","Corticosteroids, immunosuppressants"
+Yes,Yes,Yes,No,60,Female,High,Normal,Kidney Cancer,Early detection is key.,"Sunitinib, Pazopanib",Tetanus toxoid vaccine
+Yes,Yes,Yes,Yes,60,Female,High,High,Kidney Disease,Manage symptoms.,"Epoetin alfa, Calcium acetate","Surgery, radioactive iodine"
+Yes,No,Yes,No,60,Male,High,Normal,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+Yes,Yes,Yes,No,60,Female,High,Normal,Pancreatitis,"Avoid triggers, manage pain.","Pancrelipase, Acetaminophen","Surgery, immunotherapy"
+Yes,Yes,No,No,60,Male,High,Normal,Parkinson's Disease,Manage symptoms.,"Levodopa, Carbidopa",Dopamine Agonists
+Yes,Yes,No,No,60,Male,High,Normal,Parkinson's Disease,Manage symptoms.,"Levodopa, Carbidopa",Dopamine Agonists
+No,No,Yes,No,60,Female,Normal,Normal,Prader-Willi Syndrome,Manage weight.,"Growth Hormone, Behavioral Therapy",Hormonal Therapy
+No,No,Yes,No,60,Female,High,High,Rheumatoid Arthritis,Manage pain.,"Methotrexate, Ibuprofen","Chemotherapy, radiation"
+No,No,Yes,No,60,Female,High,High,Thyroid Cancer,Follow treatment.,"Levothyroxine, Radioactive Iodine",Thyroid Hormone Replacement
+Yes,Yes,Yes,No,60,Female,High,High,Tuberculosis,Seek treatment.,"Isoniazid, Rifampin, Ethambutol, Pyrazinamide",Behavioral therapy
+No,No,Yes,No,65,Male,Normal,Normal,Bladder Cancer,Drink plenty of fluids.,"Bacillus Calmette-Guérin (BCG), Cisplatin","Immunotherapy, Chemotherapy"
+No,No,Yes,No,65,Male,Normal,High,Diabetes,Monitor blood sugar.,"Metformin, Glipizide","Corticosteroids, immunosuppressants"
+Yes,Yes,Yes,No,65,Male,Normal,Normal,Otitis Media (Ear Infection),Manage pain.,"Amoxicillin, Clavulanate",Antibiotics
+Yes,No,Yes,No,65,Female,High,Low,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+Yes,No,Yes,No,65,Female,High,Low,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+No,No,Yes,No,65,Male,High,High,Tourette Syndrome,Manage symptoms.,"Clonidine, Risperidone",Neuroleptics
+Yes,No,Yes,No,65,Male,High,Normal,Urinary Tract Infection (UTI),"Drink fluids, avoid irritants.","Nitrofurantoin, Ciprofloxacin","Surgery, chemotherapy"
+No,Yes,No,No,65,Male,Normal,High,Alzheimer's Disease,Support caregivers.,"Donepezil, Memantine",Cholinesterase Inhibitors
+No,Yes,No,No,65,Male,Normal,High,Alzheimer's Disease,Support caregivers.,"Donepezil, Memantine",Cholinesterase Inhibitors
+No,No,Yes,No,65,Female,High,High,Alzheimer's Disease,Support caregivers.,"Donepezil, Memantine",Cholinesterase Inhibitors
+Yes,No,Yes,Yes,65,Male,High,High,Bronchitis,"Rest, fluids.","Guaifenesin, Dextromethorphan",Supportive care
+Yes,No,Yes,Yes,65,Female,High,High,Chronic Obstructive Pulmonary Disease (COPD),Take medication.,"Lamotrigine, Levetiracetam","Metformin, birth control"
+Yes,No,Yes,Yes,65,Female,High,High,Chronic Obstructive Pulmonary Disease (COPD),Take medication.,"Lamotrigine, Levetiracetam","Metformin, birth control"
+No,No,Yes,No,65,Female,High,High,Dementia,Provide support.,"Donepezil, Rivastigmine",Cholinesterase Inhibitors
+Yes,Yes,Yes,No,65,Female,Normal,High,Diabetes,Take medication.,"Lamotrigine, Levetiracetam","Metformin, birth control"
+No,No,Yes,No,65,Female,High,High,Diverticulitis,Avoid irritants.,"Ciprofloxacin, Metronidazole",Antibiotics
+Yes,Yes,Yes,No,65,Female,High,High,Liver Cancer,Take medication.,"Lamotrigine, Levetiracetam","Metformin, birth control"
+Yes,Yes,Yes,No,65,Female,High,High,Lung Cancer,Avoid smoking.,"Cisplatin, Paclitaxel",Chemotherapy
+Yes,No,Yes,No,65,Female,Normal,High,Lung Cancer,Avoid smoking.,"Cisplatin, Paclitaxel",Chemotherapy
+No,No,Yes,No,65,Male,Normal,High,Mumps,Get vaccinated.,Symptomatic treatment,
+No,No,Yes,No,65,Male,Normal,High,Mumps,Get vaccinated.,Symptomatic treatment,
+No,Yes,Yes,No,65,Female,High,High,Osteoporosis,Take medication.,"Lamotrigine, Levetiracetam","Metformin, birth control"
+Yes,Yes,Yes,No,65,Female,High,High,Stroke,Take medication.,"Lamotrigine, Levetiracetam","Metformin, birth control"
+Yes,No,Yes,No,70,Female,High,Normal,Alzheimer's Disease,Support caregivers.,"Donepezil, Memantine",Cholinesterase Inhibitors
+Yes,No,Yes,No,70,Female,High,Normal,Alzheimer's Disease,Support caregivers.,"Donepezil, Memantine",Cholinesterase Inhibitors
+No,No,Yes,No,70,Male,Normal,Normal,Cholecystitis,Seek medical attention.,"Ceftriaxone, Metronidazole",Antibiotics
+No,Yes,Yes,Yes,70,Male,Normal,High,Chronic Obstructive Pulmonary Disease (COPD),Take medication.,"Lamotrigine, Levetiracetam","Metformin, birth control"
+No,Yes,Yes,Yes,70,Male,Normal,High,Chronic Obstructive Pulmonary Disease (COPD),Take medication.,"Lamotrigine, Levetiracetam","Metformin, birth control"
+Yes,No,No,No,70,Male,Normal,Normal,Osteoporosis,"Exercise, calcium.","Alendronate, Risedronate",Antiretroviral therapy
+No,No,Yes,No,70,Male,Normal,Normal,Parkinson's Disease,Manage symptoms.,"Levodopa, Carbidopa",Dopamine Agonists
+Yes,Yes,No,No,70,Male,High,Normal,Prostate Cancer,Get regular screenings.,"Leuprolide, Flutamide",Hormonal Therapy
+No,Yes,Yes,No,70,Male,Normal,Normal,Schizophrenia,Manage symptoms.,"Haloperidol, Clozapine",Antipsychotics
+Yes,No,Yes,No,70,Female,Normal,High,Gout,Avoid triggers.,"Colchicine, Allopurinol",Uric Acid Lowering Agents
+No,No,Yes,No,70,Female,Normal,Normal,Migraine,"Manage triggers, seek treatment.","Sumatriptan, Naproxen",Iron supplements
+No,Yes,No,No,70,Male,Normal,High,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+No,Yes,No,No,70,Male,Normal,High,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+No,No,Yes,No,70,Female,High,High,Testicular Cancer,Perform self-exams.,"Cisplatin, Bleomycin",Chemotherapy
+Yes,Yes,Yes,No,70,Female,High,High,Tonsillitis,Manage pain.,"Penicillin, Amoxicillin",Antibiotics
+No,No,Yes,No,70,Female,Normal,Normal,Williams Syndrome,Provide support,Symptomatic treatment,
+Yes,No,Yes,No,80,Female,High,High,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+Yes,No,Yes,No,80,Female,High,High,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+Yes,No,Yes,No,85,Male,High,High,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+Yes,No,Yes,No,85,Male,High,High,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+Yes,No,Yes,No,90,Female,High,High,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
+Yes,No,Yes,No,90,Female,High,High,Stroke,"Act fast, seek medical attention.","Aspirin, Clopidogrel",Surgery
